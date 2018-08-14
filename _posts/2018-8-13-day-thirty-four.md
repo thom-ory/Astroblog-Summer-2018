@@ -9,7 +9,7 @@ For some reason I had a little bit of trouble installing Python. I hadn't yet ne
 
 The reason I decided I needed Python again was to overlay where dolphot thinks the sources are onto the drc image so that I can check how things are going so far. I still am detecting ~100,000 sources so I already know I still have way too many (I'm looking for a number of stars about one order of magnitude smaller than what I have now), so the image is just purple (the color of the aperture objects). But, it's good to keep checking. 
 
-![]({{ thom-ory.github.io }}/images/toomanysources.png) 
+![]({{ thom-ory.github.io }}/images/toomanysources.png)       
 _I'm detecting about 50-100 times more sources than I should be_
 
 ---
@@ -17,9 +17,9 @@ I talked to Rory and got the values that he's using for the filtering so that we
 
 After removing sources based on the above criteria, I end up with a document called 'finalsourcelist.txt' that has 1,326 sources and looks like this when overlayed the drc image:
 
-![]({{ thom-ory.github.io }}/images/finalsourceimage_ib2o01.png)
-![]({{ thom-ory.github.io }}/images/[zoomed_right]finalsourceimage_ib2o01.png)
-![]({{ thom-ory.github.io }}/images/[zoomed_left]finalsourceimage_ib2o01.png)
+![]({{ thom-ory.github.io }}/images/finalsourceimage_ib2o01.png)    
+![]({{ thom-ory.github.io }}/images/[zoomed_right]finalsourceimage_ib2o01.png)    
+![]({{ thom-ory.github.io }}/images/[zoomed_left]finalsourceimage_ib2o01.png)   
 _Top: the entire field   
 Middle: zoomed in on the top right corner   
 Bottom: zoomed in on the bottom left corner_ 
